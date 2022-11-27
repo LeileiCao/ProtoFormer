@@ -2,7 +2,7 @@
 This is the implementation of the paper "Prototype as Query for Few-Shot Semantic Segmentation" by Leilei Cao, Yibo Guo, Ye Yuan and Qiangguo Jin. Implemented on Python 3.8 and Pytorch 1.8.1.
 
 <p align="middle">
-    <img src="data/assets/overview.pdf">
+    <img src="data/assets/overview.jpg">
 </p>
 
 ## Requirements
