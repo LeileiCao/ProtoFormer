@@ -126,4 +126,4 @@ Download the ImageNet pretrained [**backbones**](https://mycuhk-my.sharepoint.co
 >                --load "path_to_trained_model"
 > ```
 
-This project is built upon + HSNet:https://github.com/juhongm999/hsnet
+This project is built upon HSNet:https://github.com/juhongm999/hsnet
