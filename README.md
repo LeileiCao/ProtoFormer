@@ -5,6 +5,7 @@ This is the implementation of the paper "Prototype as Query for Few-Shot Semanti
     <img src="data/assets/overview.jpg">
 </p>
 For more information, check out our paper on [[arXiv](https://arxiv.org/abs/2211.14764)].
+
 ## Requirements
 
 - Python 3.8
