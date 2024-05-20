@@ -67,7 +67,7 @@ Create a directory '../Datasets' for the above two few-shot segmentation dataset
             ├── train2014/
             └── val2014/
 
-Download the ImageNet pretrained [**backbones**](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155122171_link_cuhk_edu_hk/EQEY0JxITwVHisdVzusEqNUBNsf1CT8MsALdahUhaHrhlw?e=4%3a2o3XTL&at=9) and put them into the `initmodel` directory
+Download the ImageNet pretrained [**backbones**](https://drive.google.com/drive/folders/1wv0SMCYvUm5-YnI082W0AbL5gE3g8hKL?usp=sharing) and put them into the `initmodel` directory
 
 ## Training
 > ### 1. PASCAL-5<sup>i</sup>
